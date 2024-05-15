@@ -1,0 +1,5 @@
+100=gizem ari k:5:+
+101=asir ari e:2:-
+102=hatice ari k:0:x
+103=bilge ari k:0:x
+104=azra ari k:0:-
